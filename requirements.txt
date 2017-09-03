@@ -1,2 +1,5 @@
-apistar[asyncio]==0.2.1
+apistar==0.2.5
+Django==1.11.4
+meinheld==0.6.1
+psycopg2==2.7.3
 uvicorn==0.0.15
